@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.335d6cc7.chunk.css",
+    "main.js": "/static/js/main.15d6cf91.chunk.js",
+    "main.js.map": "/static/js/main.15d6cf91.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5a50c6c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5a50c6c8.js.map",
+    "static/js/2.576cfb54.chunk.js": "/static/js/2.576cfb54.chunk.js",
+    "static/js/2.576cfb54.chunk.js.map": "/static/js/2.576cfb54.chunk.js.map",
+    "static/js/3.1061ccad.chunk.js": "/static/js/3.1061ccad.chunk.js",
+    "static/js/3.1061ccad.chunk.js.map": "/static/js/3.1061ccad.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.335d6cc7.chunk.css.map": "/static/css/main.335d6cc7.chunk.css.map",
+    "static/js/2.576cfb54.chunk.js.LICENSE.txt": "/static/js/2.576cfb54.chunk.js.LICENSE.txt",
+    "static/media/circle.6046d4cc.svg": "/static/media/circle.6046d4cc.svg",
+    "static/media/download-solid.1b03ac16.svg": "/static/media/download-solid.1b03ac16.svg",
+    "static/media/font-solid.5e10c124.svg": "/static/media/font-solid.5e10c124.svg",
+    "static/media/home-solid.213029c6.svg": "/static/media/home-solid.213029c6.svg",
+    "static/media/image-solid.7f1a7bd0.svg": "/static/media/image-solid.7f1a7bd0.svg",
+    "static/media/pencil-ruler-soild.da12d6e3.svg": "/static/media/pencil-ruler-soild.da12d6e3.svg",
+    "static/media/rectangle.f2a952a7.svg": "/static/media/rectangle.f2a952a7.svg",
+    "static/media/smile-soild.acf6f9a9.svg": "/static/media/smile-soild.acf6f9a9.svg",
+    "static/media/square-soild.11845117.svg": "/static/media/square-soild.11845117.svg",
+    "static/media/sticker4.png": "/static/media/sticker4.b01d9522.png",
+    "static/media/sticker5.png": "/static/media/sticker5.cb56972a.png",
+    "static/media/sticker6.png": "/static/media/sticker6.3f9aaf67.png",
+    "static/media/sticker7.png": "/static/media/sticker7.3f43df76.png",
+    "static/media/sticker8.png": "/static/media/sticker8.9868fcd8.png",
+    "static/media/sticker9.png": "/static/media/sticker9.3aafe06b.png",
+    "static/media/triangle.8b331768.svg": "/static/media/triangle.8b331768.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a50c6c8.js",
+    "static/js/2.576cfb54.chunk.js",
+    "static/css/main.335d6cc7.chunk.css",
+    "static/js/main.15d6cf91.chunk.js"
+  ]
+}
